@@ -1,6 +1,9 @@
 ### Olá, bem-vindo ao meu perfil 💀🔥
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=yLuuuucas&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yLuuuucas&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/yLuuuucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yLuuuucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLuuuucas&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mariani-borges-393b05215/)
